@@ -59,6 +59,7 @@ Realiability, Scalability, Maintainability
   * [Merkle trees]()
   * [Leader election]()
 
+## How to approach system design
 
 
 ### References 
