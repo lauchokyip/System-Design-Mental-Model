@@ -67,3 +67,4 @@ Realiability, Scalability, Maintainability
 * https://www.designgurus.io/course-play/grokking-the-system-design-interview/doc/645d5161fff33a24ccce4bb1
 * https://www.algoexpert.io/systems/fundamentals
 * https://www.youtube.com/watch?v=i53Gi_K3o7I
+* https://igotanoffer.com/blogs/tech/system-design-interview-prep#overview
