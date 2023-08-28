@@ -63,6 +63,7 @@ Realiability, Scalability, Maintainability
 
 
 ### References 
+* http://patrickhalina.com/posts/systems-design-interview-guide/
 * https://www.educative.io/blog/complete-guide-to-system-design
 * https://www.designgurus.io/course-play/grokking-the-system-design-interview/doc/645d5161fff33a24ccce4bb1
 * https://www.algoexpert.io/systems/fundamentals
